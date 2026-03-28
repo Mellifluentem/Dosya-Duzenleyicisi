@@ -1,1 +1,1 @@
-BASH üzerinden yaptığım dosya düzenleyicisi Resimler ve Metinler diye iki tane directory oluşturur .txt .doc .jpg .jpeg .png dosyalarını alır ve oluşturulan metinler ve resimler klasörüne atar attıkdan sonra atılma tarihini yazdırır atılmayanları es geçip bunları da yazdırır t
+BASH üzerinden yaptığım dosya düzenleyicisi Resimler ve Metinler diye iki tane directory oluşturur .txt .doc .jpg .jpeg .png dosyalarını alır ve oluşturulan metinler ve resimler klasörüne atar attıkdan sonra atılma tarihini yazdırır atılmayanları es geçip bunları da yazdırır 
